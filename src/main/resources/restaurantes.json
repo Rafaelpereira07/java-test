@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Madre Mia!",
+    "local": "Rua Santa Cruz, 2200 - Centro, Pelotas - RS",
+    "telefone": "(53) 3303-4075"
+  },
+  {
+    "nome": "Restaurante Grelhados Batuva",
+    "local": "Rua General Osório, 454 - Centro, Pelotas - RS",
+    "telefone": "(53) 3222-0101"
+  },
+  {
+    "nome": "Churrascaria Lobão",
+    "local": "Avenida Bento Gonçalves, 3460 - Centro, Pelotas - RS",
+    "telefone": "(53) 3225-6197"
+  },
+  {
+    "nome": "Parrillada El Paisano",
+    "local": "Rua Marechal Deodoro, 1093C - Centro, Pelotas - RS",
+    "telefone": "(53) 3227-1507"
+  },
+  {
+    "nome": "Ristorante Vesúvio",
+    "local": "Rua Marcílio Dias, 1090 - Centro, Pelotas - RS",
+    "telefone": "(53) 3222-6708"
+  },
+  {
+    "nome": "Polo Norte",
+    "local": "Rua General Osório, 1380 - Centro, Pelotas - RS",
+    "telefone": "(53) 3227-3368"
+  }
+]
